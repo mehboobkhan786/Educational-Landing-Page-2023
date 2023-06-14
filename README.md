@@ -1,8 +1,8 @@
-Project Name:   "Learnify"
-Date:            12/06/2023
-Developed By:    Mehboob khan
+Project Name:   "Learnify" ,,
+Date:            12/06/2023 ,,
+Developed By:    Mehboob khan ,,
 Description:    This is HomePage of a Educational Website, intentionally designed to showcase my skills in web-development.
-Language:    ReactJS
+Language:    ReactJS .
 
 
 

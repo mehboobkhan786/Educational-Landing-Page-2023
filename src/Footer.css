@@ -1,0 +1,18 @@
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1px;
+    text-align: center;
+  }
+  .image-container {
+    max-width: 190%;
+    text-align: right;
+    margin-top: 50px;
+    margin-left: 105px;
+  }
+  
+  .education-image {
+    max-width: 190%;
+    height: auto;
+  }
+  

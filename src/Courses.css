@@ -1,0 +1,48 @@
+.my-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.top-row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bottom-row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.my-card {
+  width: 280px;
+  margin-bottom: 20px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: box-shadow 0.3s ease;
+}
+
+.my-card:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.my-image {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+}
+
+.my-heading {
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+.my-paragraph {
+  font-weight: bold;
+  text-align: justify;
+}
